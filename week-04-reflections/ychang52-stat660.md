@@ -3,8 +3,7 @@
 
 
 
-[place your questions/answers here, and delete this line]
-
+Test content, to illustrate how PRs work
 
 
 ***
@@ -18,7 +17,7 @@
 ```SAS
 
 
-[place your SAS recipe explorations here, with one code fence per recipe, and delete this line]
+Test content, to illustrate how PRs work
 
 
 
